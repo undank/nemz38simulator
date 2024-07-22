@@ -66,6 +66,8 @@ monogatari.script ({
 		        playedDate: false
 		    });
 		},
+		'show scene #000000 with fadeIn',
+		'Heading to my date...',
 		'show scene house with fadeIn',
 		'play music date',
 		"y Hmm, she is running late...",
@@ -75,7 +77,7 @@ monogatari.script ({
 		"foosballchan Nemzy-kun! I missed you so much since our last match!",
 		"y Yeah, my arsehole is still hurting after that one...",
 		"foosballchan So, what should we do today Nemz-senpai?",
-		'Suddenly, three women approach...',
+		'Suddenly, you are confronted by someone...',
 /*		{	
 			'Choice': {
 				'Dialog': "What should we do?",
@@ -94,9 +96,9 @@ monogatari.script ({
 		'gravychan Who is this woman Nemz-sensei?',
 		"gravychan Don't you remember our special night? That special night?!",
 		'show character skittleschan Normal left with fadeIn',
-		'skittleschan Nemz-kun, y-you baka! How could you? After the things you did to me...',
+		'skittleschan Nemz-kun, y-you baka! How could you? After the places you put me...',
 		'show character scissorschan Normal right with fadeIn',
-		'scissorschan You are a degenerate.',
+		"scissorschan I didn't think what we did was even physically possible. You disgust me, Nemz-aru...",
 		"y Wait, I can explain ladies!",
 		"Nemz got anxiety and ran away.",
 		'show scene #000000 with fadeIn',
