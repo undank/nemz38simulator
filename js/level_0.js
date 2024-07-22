@@ -5,7 +5,7 @@ monogatari.script ({
 		'play music burythelight8bit loop with fadeIn',
 		'show image titlescreen at image-centertop with fadeIn',
 		{'Choice': {
-	            'Dialog': 'undank Thanks for playtesting! Id like to know the following: any script/joke improvement suggestions, if shit doesnt make sense, identifying ear rape audio etc etc',
+	            'Dialog': 'undank Thanks for playtesting!',
 	            'LevelOne': {
 	                'Text': 'Level 1',
 	                'Do': 'jump LevelOne',

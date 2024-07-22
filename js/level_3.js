@@ -64,7 +64,6 @@ monogatari.script ({
 		'y Time to stick to a normal streaming schedule! Three hour streams, twice a week, at least!',
 		'y I will finally do the DS3 All Achievements run!',
 		'y Unless....?',
-		'To be continued!',
 		'stop music',
 		'jump Ending',
 	],
