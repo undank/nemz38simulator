@@ -280,6 +280,7 @@ monogatari.script ({
 	// The game starts here.
 	'Start': [
 		'stop music',
+		'jump TrueStart',
 		{'Choice': {
 	            'Dialog': 'undank Thanks for playtesting! Id like to know the following: any script/joke improvement suggestions, if shit doesnt make sense, identifying quiet/ear rape audio etc etc',
 	            'Start': {
