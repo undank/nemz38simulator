@@ -106,6 +106,7 @@ monogatari.assets ('scenes', {
 	"Park": "park.jpg",
 	"FIFA": "fifa.png",
 	"house": "house.jpg",
+	"lothric": "lothric.jpg",
 	"dist2twitch": "dist2twitch.png",
 	"ERZip1": "ERzip1.png",
 	"ERZip2": "ERzip2.png",
