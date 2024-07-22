@@ -282,7 +282,7 @@ monogatari.script ({
 	'Start': [
 		'stop music',
 		{'Choice': {
-	            'Dialog': 'undank Thanks for playtesting! Please suggest script/joke improvements, where audio is too quiet/ear rape etc',
+	            'Dialog': 'undank Thanks for playtesting! Please suggest script/joke improvements, if anything is *too* cringe, where audio is too quiet/ear rape etc',
 	            'Start': {
 	                'Text': 'Start',
 	                'Do': 'jump TrueStart',
