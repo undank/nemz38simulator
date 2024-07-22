@@ -78,19 +78,6 @@ monogatari.script ({
 		"y Yeah, my arsehole is still hurting after that one...",
 		"foosballchan So, what should we do today Nemz-senpai?",
 		'Suddenly, you are confronted by someone...',
-/*		{	
-			'Choice': {
-				'Dialog': "What should we do?",
-				'Rizz': {
-					'Text': 'Rizz',
-					'Do': "jump DateOne",
-				},
-				'Fight': {
-					'Text': 'Fight',
-					'Do': 'jump DateTwo'
-				},
-			}
-		},*/
 		'hide character foosballchan with fadeOut',
 		'show character gravychan Normal center with fadeIn',
 		'gravychan Who is this woman Nemz-sensei?',
@@ -102,6 +89,7 @@ monogatari.script ({
 		"y Wait, wait! Ladies, I can explain!",
 		"Nemz got anxiety and ran away.",
 		'show scene #000000 with fadeIn',
+		'stop music date with fade 3',
 		'...',
 		'y Wow! Glad I got out of there in time.',
 		'y I wonder what Brenna is up to...?',
