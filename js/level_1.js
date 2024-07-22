@@ -99,10 +99,12 @@ monogatari.script ({
 		'skittleschan Nemz-kun, y-you baka! How could you? After the places you put me...',
 		'show character scissorschan Normal right with fadeIn',
 		"scissorschan I didn't think what we did was even physically possible. You disgust me, Nemz-aru...",
-		"y Wait, I can explain ladies!",
+		"y Wait, wait! Ladies, I can explain!",
 		"Nemz got anxiety and ran away.",
 		'show scene #000000 with fadeIn',
 		'...',
+		'y Wow! Glad I got out of there in time.',
+		'y I wonder what Brenna is up to...?',
 		'jump LevelOneChoiceMenu'
 	],
 
