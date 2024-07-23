@@ -86,15 +86,15 @@ monogatari.script ({
 		'play music londoncalling8bit loop',
 		{
 			'Choice': {
-				'Dialog': "undank Thank you for playing! Start a new game or check out the bonus?",
+				'Dialog': "undank Thank you for playing!", // Start a new game or check out the bonus?",
 				'New Game': {
 					'Text': 'New Game',
 					'Do': "jump TrueStart",
 				},
-				'Bonus': {
+/*				'Bonus': {
 					'Text': 'Bonus???',
 					'Do': "jump Bonus",
-				},
+				},*/
 			}
 		},
 	],
