@@ -92,7 +92,7 @@ monogatari.script ({
 		'stop music date with fade 3',
 		'...',
 		'y Wow! Glad I got out of there in time.',
-		'y I wonder what Brenna is up to...?',
+		'y ...I wonder what my sister is up to...?',
 		'jump LevelOneChoiceMenu'
 	],
 
@@ -269,7 +269,7 @@ monogatari.script ({
 		'e ...',
 		"y Is my fucking sub ready to go yet?!",
 		'show scene #000000 with fadeIn',
-		'Finally! Took her long enough... I better head back home.',
+		'y Finally! Took her long enough... I better head back home.',
 		'jump LevelOneChoiceMenu'
 	],
 

@@ -23,21 +23,21 @@ monogatari.script ({
 	        'Choice': {
 	            'Dialog': 'y What should I do?',
 	            'Dist': {
-	                'Text': 'Talk to Distortion2',
+	                'Text': 'Distortion2',
 	                'Do': 'jump PathDist',
 	                'Condition': function () {
 	                    return monogatari.storage('playedDist');
 	                }
 	            },
 	            'Ela': {
-	                'Text': 'Talk to Elajjaz',
+	                'Text': 'Elajjaz',
 	                'Do': 'jump PathEla',
 	                'Condition': function () {
 	                    return monogatari.storage('playedEla');
 	                }
 	            },
 	            'Hob': {
-	                'Text': 'Talk to The_Happy_Hob',
+	                'Text': 'The_Happy_Hob',
 	                'Do': 'jump PathHob',
 	                'Condition': function () {
 	                    return monogatari.storage('playedHob');
