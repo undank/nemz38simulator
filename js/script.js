@@ -165,7 +165,7 @@ monogatari.characters({
 	},
 	'gravychan': {
 		name: 'Gravy-Chan',
-		color: '#916a2f',
+		color: '#b58b1d',
 		Images: {
 			Normal: 'kfcchan.png'
 		}
