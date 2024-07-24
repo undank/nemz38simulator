@@ -178,7 +178,7 @@ monogatari.characters({
 		}
 	},
 	'skittleschan': {
-		name: 'Foosball-Chan',
+		name: 'Skittles-Chan',
 		color: '#ff0000',
 		Images: {
 			Normal: 'skittleschan.png'
