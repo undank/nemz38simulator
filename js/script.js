@@ -25,38 +25,38 @@ monogatari.action ('message').messages ({
 		    <h4>Music List</h4>
 		    <ul>
 		        <li>
-		            <strong>Subway Music</strong> - Cooking Mama -
+		            Subway Music - Cooking Mama -
 		            <a href="https://www.youtube.com/watch?v=hu84AJmn43I" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Date Music</strong> - Clannad -
+		            Date Music - Clannad -
 		            <a href="https://youtu.be/oq7c-_XKl4c?si=QzjtQ_P3_agJeDIv" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Dist music</strong> - Hollow Knight - 
+		            Dist music - Hollow Knight - 
 	      			<a href="https://www.youtube.com/watch?v=fWquuWkHVP4" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Ela Music</strong> - Minecraft Sweden - 
+		            Ela Music - Minecraft Sweden - 
 	      			<a href="https://www.youtube.com/watch?v=aBkTkxKDduc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Pizza song</strong> -
+		            Spiderman 2 Pizza song -
 		            <a href="https://www.youtube.com/watch?v=czTksCF6X8Y" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Gael 8bit</strong> -
+		            Ending - Slave K***ht Gael 8bit -
 		            <a href="https://www.youtube.com/watch?v=_h7gQDQPRB8" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Victory</strong> - Final Fantasy 7
+		            Victory - Final Fantasy 7
 		        </li>
 		        <li>
-		            <strong>The Clash</strong> - London Calling 8bit -
+		            The Clash - London Calling 8bit -
 		            <a href="https://www.youtube.com/watch?v=IRqw_n7LSos" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Bury the Light 8bit</strong> - original got deleted off YouTube - here's a backup -
+		            Bury the Light 8bit - original got deleted off YouTube - here's a backup -
 		            <a href="https://github.com/undank/nemz38simulator/raw/main/assets/music/dmc5_burythelight_8bit.m4a" target="_blank">Download here</a>
 		        </li>
 		    </ul>
