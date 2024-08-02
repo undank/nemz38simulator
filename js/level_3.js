@@ -92,6 +92,10 @@ monogatari.script ({
 					'Text': 'New Game',
 					'Do': "jump TrueStart",
 				},
+				'Credits': {
+					'Text': 'Credits',
+					'Do': "jump Credits",
+				},*/
 /*				'Bonus': {
 					'Text': 'Bonus???',
 					'Do': "jump Bonus",
