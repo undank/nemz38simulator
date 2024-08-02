@@ -30,7 +30,7 @@ monogatari.script ({
 		"y Okay.",
 		'hide character zero',
 		'show image elazerocar',
-		'The streamers put Zero into a car boot and drove away.',
+		'The streamers put Zero into the boot of a car and drove away.',
 		'He was never seen again.',
 		'stop music',
 		'play music victory loop',
