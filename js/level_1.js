@@ -169,6 +169,8 @@ monogatari.script ({
 		'show character walker Mad center with fadeIn with shake',
 		"walker Ahh! What is wrong with you?!",
 		"walker Get away from Peppah, or I will call the police!",
+		"y Uhhh.... Sorry about that.",
+		"y I just remembered it's time for Blowey to take his estrogen pills. Gotta go!",
 		'show scene #000000 with fadeIn',
 		"y Let's get out of here, Blow- I mean Bluey...",
 		'jump LevelOneChoiceMenu'
@@ -194,7 +196,7 @@ monogatari.script ({
 		'show character e Normal center',
 		'e Okay Nemz, what is your usual?',
 		'y Sigh, you better remember this....',
-		"y Turkey breast footlong, pepperjack cheese, lettuce, sweetcorn---",
+		"y Footlong turkey breast, pepperjack cheese, lettuce, sweetcorn---",
 		"y Italian Bread - I don't want seeds because I'm not gay---",
 		'show character e Mad center',
 		'e ...',
