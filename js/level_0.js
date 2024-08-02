@@ -2,7 +2,6 @@ monogatari.script ({
 	'DebugStart' : [
 		'stop music',
 		'show scene #000000 with fadeIn',
-		'play music burythelight8bit loop with fadeIn',
 		'show image titlescreen at image-centertop with fadeIn',
 		{'Choice': {
 	            'Dialog': 'undank Thanks for playtesting!',
@@ -21,6 +20,19 @@ monogatari.script ({
 		    }
 		},
 	],
+	'ButtonStart' : [
+		{
+		    'Choice': {
+		            'Dialog': '',
+		            'LevelOne': {
+		                'Text': 'Start',
+		                'Do': 'jump TrueStart',
+		            },
+		    }
+		},	
+	],
+
+	
 	'TrueStart' : [
 		'stop music',
 		'show scene #000000 with fadeIn',
