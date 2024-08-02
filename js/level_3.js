@@ -109,7 +109,7 @@ monogatari.script ({
 		'jump Ending',
 	],
 	'Credits' :[
-		'show message credits',
+		'show message Credits',
 		'jump Ending',
 	]
 });
