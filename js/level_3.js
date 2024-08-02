@@ -103,5 +103,9 @@ monogatari.script ({
 		'stop music',
 		'show video canumikasa immersive with close',
 		'jump Ending',
+	],
+	'Credits' :[
+		'show message credits',
+		'jump Ending',
 	]
 });
