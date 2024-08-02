@@ -80,6 +80,7 @@ monogatari.script ({
 			    playedDist: true,
 			    playedEla: true,
 			    playedHob: true,
+			    playedDate: true,
 		    });
 		},
 		'show image titlescreen at image-centertop with fadeIn',
