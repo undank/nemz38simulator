@@ -17,6 +17,54 @@ monogatari.action ('message').messages ({
 			<p><a href='https://undank.github.io/pizza-minigame/' target="_blank"</a></p>
 		`
 	},
+	'Credits': {
+		title: 'Credits',
+		subtitle: "",
+		body: `
+		    <h1>Cheers to the following lads for playtesting:</h1>
+		    <ul>
+		        <li>Solaire</li>
+		        <li>dtimm</li>
+		    </ul>
+		
+		    <h2>Music List</h2>
+		    <ul>
+		        <li>
+		            <strong>Subway Music</strong> - Cooking Mama -
+		            <a href="https://www.youtube.com/watch?v=hu84AJmn43I" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            <strong>Date Music</strong> - Clannad -
+		            <a href="https://youtu.be/oq7c-_XKl4c?si=QzjtQ_P3_agJeDIv" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            <strong>Dist music</strong> - Hollow Knight
+		        </li>
+		        <li>
+		            <strong>Ela Music</strong> - Minecraft Sweden
+		        </li>
+		        <li>
+		            <strong>Pizza song</strong> -
+		            <a href="https://www.youtube.com/watch?v=czTksCF6X8Y" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            <strong>Gael 8bit</strong> -
+		            <a href="https://www.youtube.com/watch?v=_h7gQDQPRB8" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            <strong>Victory</strong> - Final Fantasy 7
+		        </li>
+		        <li>
+		            <strong>The Clash</strong> - London Calling 8bit -
+		            <a href="https://www.youtube.com/watch?v=IRqw_n7LSos" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            <strong>Bury the Light 8bit</strong> - original got deleted off YouTube - here's a backup -
+		            <a href="https://github.com/undank/nemz38simulator/raw/main/assets/music/dmc5_burythelight_8bit.m4a" target="_blank">Download here</a>
+		        </li>
+		    </ul>
+		`
+	},
 });
 
 
