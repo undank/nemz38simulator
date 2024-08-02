@@ -21,13 +21,8 @@ monogatari.action ('message').messages ({
 		title: 'Credits',
 		subtitle: "",
 		body: `
-		    <h1>Cheers to the following lads for playtesting:</h1>
-		    <ul>
-		        <li>Solaire</li>
-		        <li>dtimm</li>
-		    </ul>
-		
-		    <h2>Music List</h2>
+		    <h3>Cheers to the following lads for playtesting:< solaire, dtimm, Ross/h1>
+		    <h3>Music List</h2>
 		    <ul>
 		        <li>
 		            <strong>Subway Music</strong> - Cooking Mama -
@@ -38,10 +33,12 @@ monogatari.action ('message').messages ({
 		            <a href="https://youtu.be/oq7c-_XKl4c?si=QzjtQ_P3_agJeDIv" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Dist music</strong> - Hollow Knight
+		            <strong>Dist music</strong> - Hollow Knight - 
+	      			<a href="https://www.youtube.com/watch?v=fWquuWkHVP4" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            <strong>Ela Music</strong> - Minecraft Sweden
+		            <strong>Ela Music</strong> - Minecraft Sweden - 
+	      			<a href="https://www.youtube.com/watch?v=aBkTkxKDduc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            <strong>Pizza song</strong> -
