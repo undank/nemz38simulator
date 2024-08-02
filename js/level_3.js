@@ -95,7 +95,7 @@ monogatari.script ({
 				'Credits': {
 					'Text': 'Credits',
 					'Do': "jump Credits",
-				},*/
+				},
 /*				'Bonus': {
 					'Text': 'Bonus???',
 					'Do': "jump Bonus",
