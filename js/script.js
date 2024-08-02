@@ -21,8 +21,8 @@ monogatari.action ('message').messages ({
 		title: 'Credits',
 		subtitle: "",
 		body: `
-		    <h3>Cheers to the following lads for playtesting:< solaire, dtimm, Ross/h1>
-		    <h3>Music List</h2>
+		    Cheers to the following lads for playtesting: solaire, dtimm, Ross
+		    <h4>Music List</h4>
 		    <ul>
 		        <li>
 		            <strong>Subway Music</strong> - Cooking Mama -
