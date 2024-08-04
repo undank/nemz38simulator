@@ -102,7 +102,7 @@ monogatari.script ({
 		'ela Nemz, my love! Good to see you buddy. ',
 		'ela By the way, I have 11k viewers. Meow.',
 		"y Literally didn't ask, buddy...",
-		'ela So, when are you moving into my Swedish streamer house?',
+		'ela So, when are you moving into my giga myega streamer house?',
 		'ela I have so many cool nightclubs to show you...',
 		'y Uhh, soon, I promise. Can you help me get my stream key back?',
 		"stop music sweden",
