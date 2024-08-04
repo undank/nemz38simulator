@@ -100,7 +100,7 @@ monogatari.script ({
 		'show scene elatwitch with fadeIn',
 		'show character ela Normal with fadeIn',
 		'ela Nemz, my love! Good to see you buddy. ',
-		'ela I have 11k viewers. Meow.',
+		'ela By the way, I have 11k viewers. Meow.',
 		"y Literally didn't ask, buddy...",
 		'ela When are you moving into my Swedish streamer house?',
 		'y Uhh, soon, I promise. Can you help me get my stream key back?',
