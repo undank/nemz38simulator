@@ -49,7 +49,8 @@ monogatari.action ('message').messages ({
 		            <a href="https://www.youtube.com/watch?v=_h7gQDQPRB8" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Victory - Final Fantasy 7
+		            Victory - Final Fantasy 7 - 
+	      			<a href="https://www.youtube.com/watch?v=rgUksX6eM0Y" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            The Clash - London Calling 8bit -
