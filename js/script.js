@@ -21,8 +21,11 @@ monogatari.action ('message').messages ({
 		title: 'Credits',
 		subtitle: "",
 		body: `
-		    Cheers to the following lads for playtesting: solaire, dtimm, Ross
-		    <h4>Music List</h4>
+		Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a>
+      Cheers to the following lads for playtesting: 
+      solaire, dtimm, Ross
+		    <h4>Music List</h4> - 
+      
 		    <ul>
 		        <li>
 		            Subway Music - Cooking Mama -
