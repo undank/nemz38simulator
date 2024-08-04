@@ -111,6 +111,8 @@ monogatari.script ({
 		'show scene pizzabg with fadeIn',
 		'show character ela Pizza with fadeIn',
 		"ela ... But first, let's see who can eat these banana pizzas the fastest!",
+		"ela Banana, pineapple, curry, ham... The perfect pizza.",
+		"ela Let the feast begin!"
 		"stop music pizzaog",
 		"show message Pizza at right",
 		{
@@ -130,7 +132,7 @@ monogatari.script ({
 
 	'ElaWin' : [
 		'play music pizzaog with fadeIn',
-		"ela Dang! I have been defeated by the Pizza Predator of Essex!",
+		"ela Dang! I have been defeated by the Essex Pizza Predator!",
 		"ela Seriously though, you ate that really quickly...",
 		"ela There's no shame...",
 		"ela Anyway, sure, I will help you out.",
@@ -140,8 +142,9 @@ monogatari.script ({
 	'ElaLose' : [
 		'play music pizzaog with fadeIn',
 		"ela Haha! You didn't stand a chance against the Swedish Slice Swallower!",
-		"ela Ahh, that was satisfying. I am in a good mood, so I will help you out anyway.",
-
+		"ela Ahh, that pizza was omega satisfying.", 
+		"I guess I will do a charity marathon tomorrow to burn all that pizza off."
+		"Anyway, I am in a good mood, so I will help you out.",
 		'jump LevelTwoChoiceMenu',
 	],
 
