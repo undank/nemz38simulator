@@ -143,8 +143,8 @@ monogatari.script ({
 		'play music pizzaog with fadeIn',
 		"ela Haha! You didn't stand a chance against the Swedish Slice Swallower!",
 		"ela Ahh, that pizza was omega satisfying.", 
-		"I guess I will do a charity marathon tomorrow to burn all that pizza off.",
-		"Anyway, I am in a good mood, so I will help you out.",
+		"ela I guess I will do a charity marathon tomorrow to burn all that pizza off.",
+		"ela Anyway, I am in a good mood, so I will help you out.",
 		'jump LevelTwoChoiceMenu',
 	],
 
