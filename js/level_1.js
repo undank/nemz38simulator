@@ -169,10 +169,8 @@ monogatari.script ({
 		'show character walker Mad center with fadeIn with shake',
 		"walker Ahh! What is wrong with you?!",
 		"walker Get away from Peppah, or I will call the police!",
-		"y Uhhh.... Sorry about that.",
-		"y I just remembered it's time for Blowey to take his estrogen pills. Gotta go!",
 		'show scene #000000 with fadeIn',
-		"y Let's get out of here, Blow- I mean Bluey...",
+		"y Let's get out of here, Blowey - it's time to take your estrogen pills...",
 		'jump LevelOneChoiceMenu'
 	],
 
