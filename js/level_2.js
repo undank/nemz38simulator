@@ -105,11 +105,12 @@ monogatari.script ({
 		'ela So, when are you moving into my giga myega streamer house?',
 		'ela I have so many cool nightclubs to show you...',
 		'y Uhh, soon, I promise. Can you help me get my stream key back?',
+		"ela Sure...",
 		"stop music sweden",
 		'play music pizzaog with fadeIn',
 		'show scene pizzabg with fadeIn',
 		'show character ela Pizza with fadeIn',
-		"ela Sure, but first, let's see who can eat these banana pizzas the fastest!",
+		"ela ... But first, let's see who can eat these banana pizzas the fastest!",
 		"stop music pizzaog",
 		"show message Pizza at right",
 		{
