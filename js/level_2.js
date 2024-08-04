@@ -64,7 +64,7 @@ monogatari.script ({
 		'play music greenpath loop with fadeIn',
 		'y Dist, help me! My stream key has been stolen.',
 		'show character dist Normal with fadeIn',
-		'dist Hey Nemz, Sorry, but I am extremely busy at the moment.',
+		'dist Hey Nemz. Sorry, but I am extremely busy at the moment.',
 		'show character dist BF with fadeIn',
 		'dist I am on vacation, and I just started a 10 hour sponsored stream.',
 		'y You have to help me out, come on man. It would be free content!',
