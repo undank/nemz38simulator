@@ -170,7 +170,7 @@ monogatari.script ({
 		"walker Ahh! What is wrong with you?!",
 		"walker Get away from Peppah, or I will call the police!",
 		'show scene #000000 with fadeIn',
-		"y Let's get out of here, Blowey - it's time to take your estrogen pills...",
+		"y Let's get out of here, Blowey, it's time for your estrogen pills anyway...",
 		'jump LevelOneChoiceMenu'
 	],
 
