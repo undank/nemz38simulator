@@ -21,10 +21,10 @@ monogatari.action ('message').messages ({
 		title: 'Credits',
 		subtitle: "",
 		body: `
-		Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a>
+	Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a></br>
       Cheers to the following lads for playtesting: 
-      solaire, dtimm, Ross
-		    <h4>Music List</h4> - 
+      solaire, dtimm, Ross </br>
+		    <h4>Music List</h4> 
       
 		    <ul>
 		        <li>
