@@ -95,7 +95,7 @@ monogatari.script ({
 		'show character batchan Normal with fadeIn',
 		"batchan And after I gave you a batjob...",
 		"y Wait, wait! Ladies, I can explain!",
-		'hide character batchan Normal with fadeIn',
+		'hide character batchan Normal with fadeOut',
 		"Nemz got anxiety and ran away.",
 		'show scene #000000 with fadeIn',
 		'stop music date2 with fade 2',
