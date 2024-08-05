@@ -55,7 +55,7 @@ monogatari.script ({
 		'nordvpn No worries about calling us "Nord Korea".',
 		'hide character nordvpn',
 		'show character displate Normal',
-		'displate We will forget about when you said a Displate killed your dog.',
+		'displate We will forget that you said a Displate killed your dog.',
 		'hide character displate',
 		'show character herowars Normal',
 		"herowars Thanks for clarifying we aren't a crypto miner scam Nemz. Clan it up!",

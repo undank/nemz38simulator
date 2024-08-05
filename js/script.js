@@ -21,10 +21,10 @@ monogatari.action ('message').messages ({
 		title: 'Credits',
 		subtitle: "",
 		body: `
-	Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a></br>
-      Cheers to the following lads for playtesting: 
+	Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a></br></br>
+      Cheers to the following lads for playtesting: </br>
       solaire, dtimm, Ross </br>
-		    <h4>Music List</h4> 
+		    <h5>Music List</h5> 
       
 		    <ul>
 		        <li>
@@ -225,6 +225,13 @@ monogatari.characters({
 		color: '#FFC0CB',
 		Images: {
 			Normal: 'scissorschan.png'
+		}
+	},
+	'batchan': {
+		name: 'Bat-Chan',
+		color: '#FF0000',
+		Images: {
+			Normal: 'rouge.png'
 		}
 	},
 	'skittleschan': {
