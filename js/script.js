@@ -131,14 +131,12 @@ monogatari.assets ('sounds', {
 	"compintro": "compintro.ogg",
 	"compmoan": "compmoan.ogg",
 	"windows10error": "windows10error.ogg",
-	"cheers": "cheers.ogg",
 	"hack": "hack.ogg",
 	"alarm": "alarm.ogg",
 });
 
 // Define the videos used in the game.
 monogatari.assets ('videos', {
-	"controller": "controller.mp4",
 	"canumikasa": "canumikasa.mp4",
 
 });
