@@ -28,12 +28,12 @@ monogatari.action ('message').messages ({
       
 		    <ul>
 		        <li>
-		            Subway Music - Cooking Mama -
-		            <a href="https://www.youtube.com/watch?v=hu84AJmn43I" target="_blank">Listen here</a>
+		            Subway Music - Cooking Mama Title Screen -
+		            <a href="https://www.youtube.com/watch?v=2qFSavTxVwc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Date Music - Clannad -
-		            <a href="https://youtu.be/oq7c-_XKl4c?si=QzjtQ_P3_agJeDIv" target="_blank">Listen here</a>
+		            Date Music - PlateUp OST -
+		            <a href="https://www.youtube.com/watch?v=7QGV9znW3AY" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            Dist music - Hollow Knight - 
@@ -92,8 +92,9 @@ monogatari.assets ('gallery', { // Define the images that will be available on y
 
 monogatari.assets ('music', { // Define the music used in the game.
 	"birds": "birds.ogg",
-	"subway": "subway.m4a",
-	"date": "date.ogg",
+	"subway": "subway.ogg",
+	"date1": "date1.ogg",
+	"date2": "date2.ogg",
 	"fifa": "fifa.ogg",
 	"sweden": "sweden.ogg",
 	"sekiro": "sekiro.ogg",
