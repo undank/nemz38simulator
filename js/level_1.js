@@ -96,6 +96,7 @@ monogatari.script ({
 		"batchan And after I gave you a batjob...",
 		'hide character batchan Normal with fadeIn',
 		"y Wait, wait! Ladies, I can explain!",
+		'hide character batchan Normal with fadeOut',
 		"Nemz got anxiety and ran away.",
 		'show scene #000000 with fadeIn',
 		'stop music date2 with fade 2',
@@ -122,7 +123,7 @@ monogatari.script ({
 		'hide character bluey with fadeOut',
 		'show character walker Normal with fadeIn at center',
 		"Down the path, a woman walking a dog is heading towards you...",
-		"y (Oh my god, she's beautiful.... what should I do? Gotta get this right...)",
+		"y (Oh my god, she's beautiful.... what should I do?)", 
 		'show character walker Normal move character-centerright duration 1s',
 		{'Choice': {
 			'Dialog': "What should I do?",
