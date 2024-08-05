@@ -43,7 +43,7 @@ monogatari.script ({
 	                }
 	            },
 	            'Date': {
-	                'Text': 'Go on a Date',
+	                'Text': 'Go on a date',
 	                'Do': 'jump DatePath',
 	                'Condition': function () {
 	                    return monogatari.storage('playedDate');

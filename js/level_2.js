@@ -86,8 +86,7 @@ monogatari.script ({
 		'show scene ERZip2',
 		'Nemz ZIPPPPSSSSS into a ravine and dies.',
 		'show character dist Normal',
-		'dist You toilet bitch. You got lucky this time, Nemz...',
-		'dist I guess that counts as your win. Sure, I will help you out.',
+		'dist You toilet bitch. You got lucky this time, Nemz... I will help you out.',
 		'jump LevelTwoChoiceMenu',
 	],
 
