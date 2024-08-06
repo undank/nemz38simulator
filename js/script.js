@@ -95,6 +95,7 @@ monogatari.assets ('music', { // Define the music used in the game.
 	"subway": "subway.ogg",
 	"date1": "date1.ogg",
 	"date2": "date2.ogg",
+	"oblivion": "oblivion.ogg",
 	"fifa": "fifa.ogg",
 	"sweden": "sweden.ogg",
 	"sekiro": "sekiro.ogg",
