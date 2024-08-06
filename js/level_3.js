@@ -28,7 +28,6 @@ monogatari.script ({
 		"squilla I give up. Let's be friends again, Nemz.",
 		"y Okay.",
 		'hide character squilla',
-		'Squilla was never seen again.',
 		'stop music',
 		'play music victory loop',
 		'show character hob Normal at right',

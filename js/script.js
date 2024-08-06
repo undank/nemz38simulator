@@ -285,6 +285,7 @@ monogatari.characters({
 		color: '#5bcaff',
 		Images: {
 			Normal: 'squilla.png',
+			Normal2: 'squilla2.png',
 		}
 	},
 	'hellofresh': {
