@@ -304,7 +304,7 @@ monogatari.script ({
 		'play sound vineboom',
 		"y Who could have taken it???",
 		'play sound doorknock',
-		"???: Ashley, it's dinner time!",
+		"???: Keep it down Ashley! And it's dinner time!",
 		"y Okay Mum, I will be down in a minute!",
 		'show scene #000000 with fadeIn',
 		"y I guess I will try to find my stream key tomorrow...",

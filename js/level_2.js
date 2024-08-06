@@ -88,6 +88,7 @@ monogatari.script ({
 		"dist What the fuck is this?! I can't control my character!",
 		'show scene ERZip2',
 		'Nemz ZIPPPPSSSSS into a ravine and dies.',
+		'stop sound windows10error',
 		'show character dist Normal with fadeIn',
 		'dist You toilet bitch. You got lucky this time, Nemz... I will help you out.',
 		'jump LevelTwoChoiceMenu',
