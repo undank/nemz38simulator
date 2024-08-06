@@ -280,13 +280,11 @@ monogatari.characters({
 			Normal: 'bing.png'
 		}
 	},
-	'zero': {
-		name: 'Zero',
+	'squilla': {
+		name: 'Squillakilla',
 		color: '#5bcaff',
 		Images: {
-			Normal: 'zero_happy.png',
-			Mario: 'zero_mario.png',
-			Mad: 'zero_mad.png'
+			Normal: 'squilla.png',
 		}
 	},
 	'hellofresh': {
@@ -336,7 +334,7 @@ monogatari.script ({
 	// The game starts here.
 	'Start': [
 		'stop music',
-		'jump ButtonStart',
+		//'jump ButtonStart',
 		{'Choice': {
 	            'Dialog': 'undank Thanks for playtesting! Please suggest script/joke improvements, if anything is *too* cringe, where audio is too quiet/ear rape etc',
 	            'Start': {
