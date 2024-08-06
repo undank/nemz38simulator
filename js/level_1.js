@@ -113,7 +113,7 @@ monogatari.script ({
 		},
 		'show scene #000000 with fadeIn',
 		"y Bluey, have you finished your estrogen pills yet?", 
-		"All done? Let's go for a walk!",
+		"y All done? Let's go for a walk!",
 		'play music birds',
 		'show scene Park with fadeIn',
 		'show character bluey Normal center with fadeIn',

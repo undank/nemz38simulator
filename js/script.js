@@ -23,7 +23,7 @@ monogatari.action ('message').messages ({
 		body: `
 	Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a></br></br>
       Cheers to the following lads for playtesting: </br>
-      solaire, dtimm, Ross </br>
+      dtimm, solaire, Ross </br>
 		    <h5>Music List</h5> 
       
 		    <ul>
