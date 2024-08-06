@@ -23,17 +23,21 @@ monogatari.action ('message').messages ({
 		body: `
 	Made with Monogatari Visual Novel Engine - <a href="https://monogatari.io/" target="_blank">Link</a></br></br>
       Cheers to the following lads for playtesting: </br>
-      dtimm, solaire, Ross </br>
+      dtimm, solaire, Ross, Koss GIGACHAD</br>
 		    <h5>Music List</h5> 
       
 		    <ul>
 		        <li>
-		            Subway Music - Cooking Mama Title Screen -
+		            Subway Music - Cooking Mama -
 		            <a href="https://www.youtube.com/watch?v=2qFSavTxVwc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            Date Music - PlateUp OST -
 		            <a href="https://www.youtube.com/watch?v=7QGV9znW3AY" target="_blank">Listen here</a>
+		        </li>
+		        <li>
+		            Walk - Oblivion - 
+	      			<a href="https://www.youtube.com/watch?v=s9L9sNtv1-g" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            Dist music - Hollow Knight - 
