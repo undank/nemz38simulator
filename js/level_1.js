@@ -112,7 +112,8 @@ monogatari.script ({
 		    });
 		},
 		'show scene #000000 with fadeIn',
-		"y Let's go for a walk Blowey--I mean Bluey.",
+		"y Bluey, have you finished your estrogen pills yet?", 
+		"All done? Let's go for a walk!",
 		'play music birds',
 		'show scene Park with fadeIn',
 		'show character bluey Normal center with fadeIn',
@@ -178,7 +179,7 @@ monogatari.script ({
 		"walker Ahh! What is wrong with you?!",
 		"walker Get away from Peppah, or I will call the police!",
 		'show scene #000000 with fadeIn',
-		"y Let's get out of here, Blowey, it's time for your estrogen pills anyway...",
+		"y Let's get out of here, Blowey...",
 		'jump LevelOneChoiceMenu'
 	],
 
