@@ -144,7 +144,6 @@ monogatari.assets ('videos', {
 
 // Define the images used in the game.
 monogatari.assets ('images', {
-	"elazerocar": "elazerocar.png",
 	"titlescreen": "titlescreen.gif",
 });
 
