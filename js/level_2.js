@@ -69,8 +69,6 @@ monogatari.script ({
 		'show character dist BF with fadeIn',
 		'dist I am on vacation, and I just started a 12 hour sponsored stream.',
 		'dist I am testing a new frame-perfect glitch that will save 5 seconds on runs!',
-		'show character dist BF with fadeOut',
-		'show character dist Normal with fadeIn',
 		'y You have to help me out, come on man. It would be free content.',
 		'dist Hmm, okay then. In that case I will help you...',
 		'stop music greenpath',

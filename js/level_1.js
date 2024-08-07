@@ -195,7 +195,7 @@ monogatari.script ({
 		'show scene Subway with fadeIn',
 		'y Hey, so I will have my usual please, but go easy on the southwest sauce this time---',
 		'show character e Normal center with fadeIn',
-		"e Hi! I am sorry Sir, but I just started working here today, so I don't know your usual order...",
+		"e Sorry, I just started working here today, so I don't know your usual order...",
 		'y Well, my name is Nemz. Kind of a big deal in here.',
 		'y You will get used to seeing me around!',
 		'show character e Mad center',
