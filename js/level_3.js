@@ -10,7 +10,7 @@ monogatari.script ({
 		'y Squilla!!!',
 		'y Give me my stream key back, you villain!',
 		'y I thought we were friends?',
-		"squilla Your streams weren't giving me value, Nemz.",
+		"squilla Your streams weren't giving me enough substance, Nemz.",
 		'squilla This channel will never have "low hanging fruit" again!',
 		'hide character squilla',
 		'show character hob Sword at right with fadeIn',
