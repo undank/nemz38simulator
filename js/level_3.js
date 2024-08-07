@@ -24,7 +24,7 @@ monogatari.script ({
 		'hide character dist',
 		'hide character hob',
 		'show character squilla Normal2 with fadeIn',
-		"squilla Oh no, I have been defeated by the power of friendship.",
+		"squilla I have been defeated by the power of friendship.",
 		"squilla I give up. Let's be friends again, Nemz.",
 		"y Okay.",
 		'hide character squilla',
