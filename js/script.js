@@ -286,7 +286,7 @@ monogatari.characters({
 	},
 	'squilla': {
 		name: 'Squillakilla',
-		color: '#5bcaff',
+		color: '#B454F8',
 		Images: {
 			Normal: 'squilla.png',
 			Normal2: 'squilla2.png',
