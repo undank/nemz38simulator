@@ -33,7 +33,7 @@ monogatari.script ({
 		'show character hob Normal at right',
 		'show character dist Normal at left',
 		'show character ela Normal',
-		'y Wow, thank you guys! You really are my bestest streamer friends in the whole world.',
+		'y Wow, thank you guys! You really are my bestest friends in the whole world.',
 		'jump Sponsors',
 	],
 
