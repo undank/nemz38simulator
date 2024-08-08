@@ -1,5 +1,4 @@
 monogatari.script ({
-	// The Game Continues!!
 	'LevelThree': [
 		'stop music',
 		'play sound vineboom',
