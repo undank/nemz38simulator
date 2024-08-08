@@ -19,7 +19,7 @@ monogatari.script ({
 		'dist We will stop you Squilla!',
 		'show character ela Mad with fadeIn',
 		'ela Friendship is more important than streaming!',
-		'ela Squilla, give Nemz back his stream key NOW!',
+		'ela Squilla, give Nemz his stream key back NOW!',
 		'hide character ela',
 		'hide character dist',
 		'hide character hob',
