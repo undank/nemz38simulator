@@ -28,11 +28,11 @@ monogatari.action ('message').messages ({
       
 		    <ul>
 		        <li>
-		            Subway Music - Cooking Mama -
+		            Subway - Cooking Mama -
 		            <a href="https://www.youtube.com/watch?v=2qFSavTxVwc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Date Music - PlateUp OST -
+		            Date - PlateUp OST -
 		            <a href="https://www.youtube.com/watch?v=7QGV9znW3AY" target="_blank">Listen here</a>
 		        </li>
 		        <li>
@@ -40,15 +40,15 @@ monogatari.action ('message').messages ({
 	      			<a href="https://www.youtube.com/watch?v=s9L9sNtv1-g" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Dist music - Hollow Knight - 
+		            Dist - Hollow Knight - 
 	      			<a href="https://www.youtube.com/watch?v=fWquuWkHVP4" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Ela Music - Minecraft Sweden - 
+		            Ela - Minecraft Sweden - 
 	      			<a href="https://www.youtube.com/watch?v=aBkTkxKDduc" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Spiderman 2 Pizza song -
+		            Spiderman 2 Pizza -
 		            <a href="https://www.youtube.com/watch?v=czTksCF6X8Y" target="_blank">Listen here</a>
 		        </li>
 		        <li>
