@@ -76,7 +76,7 @@ monogatari.script ({
 		"y Ahh, there she is! Our GF!",
 		'show character foosballchan Normal center with fadeIn',
 		"foosballchan Nemzy-kun! I missed you so much since our last match!",
-		"y Yeah, my arse still hurts after that one...",
+		"y Yeah, my arse is still hurting...",
 		"foosballchan So, what should we do today Nemz-chan?",
 		'stop music date1 with fade 2',
 		'Suddenly, you are confronted...',
