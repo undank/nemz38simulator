@@ -52,7 +52,7 @@ monogatari.action ('message').messages ({
 		            <a href="https://www.youtube.com/watch?v=czTksCF6X8Y" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Ending - Slave K***ht Gael 8bit -
+		            Slave K***ht Gael 8bit -
 		            <a href="https://www.youtube.com/watch?v=_h7gQDQPRB8" target="_blank">Listen here</a>
 		        </li>
 		        <li>
