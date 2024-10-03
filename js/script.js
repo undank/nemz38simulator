@@ -183,7 +183,7 @@ monogatari.characters({
 		}
 	},
 	'undank': {
-		Name: 'Undank',
+		Name: 'Undankk',
 		Color: '#C8A2C8',
 	},
 	'oldman': {
