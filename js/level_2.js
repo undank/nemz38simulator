@@ -76,7 +76,7 @@ monogatari.script ({
 		'show scene ERZip1 with fadeIn',
 		'dist ... But only if you beat me in a ZIIIIIIPPPPPPing race!',
 		"y ...!?",
-		"y (I can't beat the 'Master of ZIPPPPing' in a fair fight... Time for my secret weapon...)",
+		"y (I can't beat the Messi of ZIPPPPing in a fair fight... Time for my secret weapon...)",
 		'play sound hack',
 		'The payload has been activated.',
 		'stop sound hack',

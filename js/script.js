@@ -44,8 +44,8 @@ monogatari.action ('message').messages ({
 	      			<a href="https://www.youtube.com/watch?v=fWquuWkHVP4" target="_blank">Listen here</a>
 		        </li>
 		        <li>
-		            Ela - Minecraft Sweden - 
-	      			<a href="https://www.youtube.com/watch?v=aBkTkxKDduc" target="_blank">Listen here</a>
+		            Ela - Shiva - Flat Out - 
+	      			<a href="https://www.youtube.com/watch?v=fbj0MU99j-U" target="_blank">Listen here</a>
 		        </li>
 		        <li>
 		            Spiderman 2 Pizza -
@@ -101,7 +101,7 @@ monogatari.assets ('music', { // Define the music used in the game.
 	"date2": "date2.ogg",
 	"oblivion": "oblivion.ogg",
 	"fifa": "fifa.ogg",
-	"sweden": "sweden.ogg",
+	"sweden": "shiva.ogg",
 	"sekiro": "sekiro.ogg",
 	"pizzaog": "pizzaog.ogg",
 	"greenpath": "greenpath.ogg",
@@ -339,7 +339,7 @@ monogatari.script ({
 	// The game starts here.
 	'Start': [
 		'stop music',
-		'jump ButtonStart',
+		//'jump ButtonStart',
 		{'Choice': {
 	            'Dialog': 'undank Thanks for playtesting! Please suggest script/joke improvements, if anything is *too* cringe, where audio is too quiet/ear rape etc',
 	            'Start': {
