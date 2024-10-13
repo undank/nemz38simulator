@@ -101,6 +101,7 @@ monogatari.assets ('music', { // Define the music used in the game.
 	"date2": "date2.ogg",
 	"oblivion": "oblivion.ogg",
 	"fifa": "fifa.ogg",
+	"dink": "dink.ogg",
 	"sweden": "shiva.ogg",
 	"sekiro": "sekiro.ogg",
 	"pizzaog": "pizzaog.ogg",
@@ -126,6 +127,7 @@ monogatari.assets ('sounds', {
 	"ds1moan1": "ds1moan1.m4a",
 	"ds1moan2": "ds1moan2.m4a",
 	"ds1womancry": "ds1womancry.ogg",
+	"youdied": "youdied.ogg",
 	"flatline": "flatline.m4a",
 	"laughcrowd": "laughcrowd.m4a",
 	"bonecrack": "bonecrack.m4a",
@@ -274,6 +276,7 @@ monogatari.characters({
 		color: '#943F55',
 		Images: {
 			Normal: 'dist2.png',
+			Mad: 'dist2mad.png',
 			BF: 'distbf.png'
 		}
 	},
@@ -282,6 +285,13 @@ monogatari.characters({
 		color: '#5bcaff',
 		Images: {
 			Normal: 'bing.png'
+		}
+	},
+	'pepe': {
+		name: 'Pepe',
+		color: '#588D3D',
+		Images: {
+			Normal: 'pepelaugh.png'
 		}
 	},
 	'squilla': {

@@ -62,21 +62,64 @@ monogatari.script ({
 		},
 		'show scene dist2twitch with fadeIn',
 		'play music greenpath loop with fadeIn',
-		'y Dist, help me! My stream key has been stolen.',
 		'show character dist Normal with fadeIn',
+		'y Dist, help me! My stream key has been stolen.',
 		'dist Hey Nemz. Sorry, but I am extremely busy at the moment.',
 		'show character dist Normal with fadeOut',
 		'show character dist BF with fadeIn',
 		'dist I am on vacation, and I just started a 12 hour sponsored stream.',
-		'dist I am testing a new frame-perfect glitch that will save 5 seconds on runs!',
-		'y You have to help me out, come on man. It would be free content.',
+		'dist And I need to test a new frame-perfect glitch to save 5 seconds on runs!',
+		'y You have to help me out, come on man.',
 		'dist Hmm, okay then. In that case I will help you...',
 		'stop music greenpath',
 		'play sound vineboom',
 		'show scene ERZip1 with fadeIn',
 		'dist ... But only if you beat me in a ZIIIIIIPPPPPPing race!',
 		"y ...!?",
-		"y (I can't beat the Messi of ZIPPPPing in a fair fight... Time for my secret weapon...)",
+		"y I can't beat the Messi of Speedrunning in a fair fight...",
+		{
+			'Choice': {
+				'Dialog': "What should I do?",
+				'HobWin': {
+					'Text': 'Send in the OneGuy',
+					'Do': "jump DistChat",
+				},
+				'HobLose': {
+					'Text': 'Activate the payload',
+					'Do': 'jump DistPayload',
+				},
+			}
+		},
+	],
+
+	'DistChat': [
+		'You send in that one guy.',
+		'play music dink loop with fadeIn',
+		'show character pepe Normal with fadeIn',
+		'pepe "chat why is he using glitches??? Thats cheating???"',
+		'hide character pepe with fadeOut',
+		'show character dist Mad with fadeIn',
+		'dist What the fuck do you know about Speedrunning? Stupid idiot. ', 
+		'hide character dist with fadeOut',
+		'show character pepe Normal with fadeIn',
+		'pepe "He keeps missing the skip... this is hard to watch..."',
+		'hide character pepe with fadeOut',
+		'show character dist Mad with fadeIn',
+		'dist Go fuck yourself!', 
+		'dist Suck my dick, you toilet bitch!', 
+		'hide character dist with fadeOut',
+		'show character pepe Normal with fadeIn',
+		'pepe "LULW just reset!"',
+		'hide character pepe with fadeOut',
+		'show character dist Mad with fadeIn',
+		'dist Shut the fuck up!',
+		'dist I am going to ban your dumb ass!',
+		'Distortion2 is stunlocked by chat...',
+		'stop music dink',
+		'jump DistEnd',
+	],
+
+	'DistPayload': [
 		'play sound hack',
 		'The payload has been activated.',
 		'stop sound hack',
@@ -84,13 +127,22 @@ monogatari.script ({
 		'show character bing Normal with shake',
 		'dist My version of Bing search is out of date?!',
 		"dist What the fuck is this?! I can't control my character!",
-		'show scene ERZip2',
-		'Nemz ZIPPPPSSSSS into a ravine and dies.',
 		'stop sound windows10error',
-		'show character dist Normal with fadeIn',
-		'dist You toilet bitch. You got lucky this time, Nemz... I will help you out.',
-		'jump LevelTwoChoiceMenu',
+		'jump DistEnd',
 	],
+
+	'DistEnd': [
+		'show scene ERZip2',
+		'play sound youdied',
+		'Nemz ZIPPPPSSSSS into a ravine and dies.',
+		'show character dist Normal with fadeIn',
+		"dist I guess that's a win. You got lucky this time, Nemz...",
+		'dist I guess I will help you out.',
+		'jump LevelTwoChoiceMenu'
+	],
+
+
+
 
 	'PathEla': [
 		function markElaAsPlayed() {
