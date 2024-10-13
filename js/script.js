@@ -132,7 +132,7 @@ monogatari.assets ('sounds', {
 	"flatline": "flatline.m4a",
 	"laughcrowd": "laughcrowd.m4a",
 	"bonecrack": "bonecrack.m4a",
-	"vineboom": "vine-boom.m4a",
+	"vineboom": "vine-boom.ogg",
 	"cr7": "cr7.m4a",
 	"messi": "messi.mp3",
 	"compcharew": "compcharew.ogg",
