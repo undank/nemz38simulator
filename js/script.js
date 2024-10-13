@@ -289,7 +289,7 @@ monogatari.characters({
 		}
 	},
 	'pepe': {
-		name: 'Pepe',
+		name: 'OneGuy',
 		color: '#588D3D',
 		Images: {
 			Normal: 'pepelaugh.png'
