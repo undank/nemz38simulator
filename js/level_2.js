@@ -111,7 +111,7 @@ monogatari.script ({
 		'show character pepe Normal with fadeIn',
 		'pepe "LULW just reset!"',
 		'hide character pepe with fadeOut',
-		'show character dist Mad with fadeIn',
+		'show character dist Mad with fadeIn with shake',
 		'dist Shut the fuck up!',
 		'dist I am going to ban your dumb ass!',
 		'Distortion2 is stunlocked by chat...',
@@ -136,6 +136,7 @@ monogatari.script ({
 		'play sound youdied',
 		'Nemz ZIPPPPSSSSS into a ravine and dies.',
 		'show character dist Normal with fadeIn',
+		"dist ...",
 		"dist I guess that's a win. You got lucky this time, Nemz...",
 		'dist I guess I will help you out.',
 		'jump LevelTwoChoiceMenu'
@@ -186,7 +187,7 @@ monogatari.script ({
 	],
 
 	'ElaWin' : [
-		'play music pizzaog with fadeIn',
+		'play music winter with fadeIn',
 		"ela Dang! I have been defeated by the Essex Pizza Predator!",
 		"ela Seriously though, you ate that really quickly...",
 		"ela There's no shame...",
@@ -195,7 +196,7 @@ monogatari.script ({
 	],
 
 	'ElaLose' : [
-		'play music pizzaog with fadeIn',
+		'play music winter with fadeIn',
 		"ela Haha! You didn't stand a chance against the Swedish Slice Swallower!",
 		"ela Ahh, that pizza was omega satisfying.", 
 		"ela I guess I will do a charity marathon tomorrow to burn all that pizza off.",

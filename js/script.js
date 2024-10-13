@@ -102,6 +102,7 @@ monogatari.assets ('music', { // Define the music used in the game.
 	"oblivion": "oblivion.ogg",
 	"fifa": "fifa.ogg",
 	"dink": "dink.ogg",
+	"winter": "winter.ogg",
 	"sweden": "shiva.ogg",
 	"sekiro": "sekiro.ogg",
 	"pizzaog": "pizzaog.ogg",
