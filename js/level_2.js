@@ -112,7 +112,7 @@ monogatari.script ({
 		'dist Suck my dick, you toilet bitch!', 
 		'hide character dist with fadeOut',
 		'show character pepe Normal with fadeIn',
-		'pepe "SO BAD OMEGALUL !!!"',
+		'pepe "SO BAD OMEGALUL"',
 		'pepe "Just reset..."',
 		'pepe "Can you play Dark Souls 2 instead?"',
 		'hide character pepe with fadeOut',
@@ -147,16 +147,13 @@ monogatari.script ({
 		'jump LevelTwoChoiceMenu'
 	],
 
-
-
-
 	'PathEla': [
 		function markElaAsPlayed() {
 		    monogatari.storage({
 		        playedEla: false
 		    });
 		},
-		'play music sweden with fadeIn',
+		'play music sweden loop with fadeIn',
 		'show scene elatwitch with fadeIn',
 		'show character ela Normal with fadeIn',
 		'ela Nemz, my love! Good to see you buddy. ',
@@ -192,7 +189,7 @@ monogatari.script ({
 	],
 
 	'ElaWin' : [
-		'play music winter with fadeIn',
+		'play music winter loop with fadeIn',
 		"ela Dang! I have been defeated by the Essex Pizza Predator!",
 		"ela Seriously though, you ate that really quickly...",
 		"ela There's no shame...",
@@ -201,7 +198,7 @@ monogatari.script ({
 	],
 
 	'ElaLose' : [
-		'play music winter with fadeIn',
+		'play music sweden loop with fadeIn',
 		"ela Haha! You didn't stand a chance against the Swedish Slice Swallower!",
 		"ela Ahh, that pizza was omega satisfying.", 
 		"ela I guess I will do a charity marathon tomorrow to burn all that pizza off.",
