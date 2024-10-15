@@ -112,9 +112,9 @@ monogatari.script ({
 		    });
 		},
 		'show scene #000000 with fadeIn',
-		"y Bluey, have you finished your estrogen pills yet?", 
+		'y Bluey, have you finished your "girl" pills yet?', 
 		"y All done? Let's go for a walk!",
-		'play music oblivion',
+		'play music oblivion loop',
 		'show scene Park with fadeIn',
 		'show character bluey Normal center with fadeIn',
 		"y What a beautiful day! Isn't that right Bluey?",

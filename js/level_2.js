@@ -118,6 +118,7 @@ monogatari.script ({
 		'pepe "Can you play Dark Souls 2 instead?"',
 		'hide character pepe with fadeOut',
 		'show character dist Mad with fadeIn with shake',
+		'play sound vineboom',
 		'dist Dude! Shut the fuck up!',
 		'dist I am going to ban your dumb ass!',
 		'Distortion2 has been stunlocked by chat...',
