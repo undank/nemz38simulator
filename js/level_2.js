@@ -112,7 +112,7 @@ monogatari.script ({
 		'dist Suck my dick, you toilet bitch!', 
 		'hide character dist with fadeOut',
 		'show character pepe Normal with fadeIn',
-		'pepe "Why is the streamer in a bad mood?"',
+		'pepe "Why is the streamer so angry???"',
 		'pepe "SO BAD OMEGALUL"',
 		'pepe "Just reset..."',
 		'pepe "Can you play Dark Souls 2 instead?"',
