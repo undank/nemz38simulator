@@ -93,7 +93,7 @@ monogatari.script ({
 	],
 
 	'DistChat': [
-		"You send in that one guy into Dist's chat.",
+		"You send in that one guy into Dist's chat...",
 		'play music dink loop with fadeIn',
 		'show character pepe Normal with fadeIn',
 		'pepe "Chat, he is just using glitches to skip half the game..."',
@@ -164,7 +164,8 @@ monogatari.script ({
 		"y ... Meow.",
 		'ela So, when are you moving into my giga myega streamer house?',
 		'ela I have so many cool nightclubs to show you...',
-		'y Uhh, soon, I promise. Can you help me get my stream key back?',
+		'y Uhh, soon, I promise.',
+		'y Can you help me get my stream key back?',
 		"ela Sure...",
 		"stop music sweden",
 		'play music pizzaog with fadeIn',
