@@ -1,8 +1,8 @@
 monogatari.script ({
 	'LevelThree': [
 		'stop music',
-		'play sound vineboom',
 		'y It was you all along?!',
+		'play sound vineboom',
 		'play music gael8bit with loop',
 		'show scene lothric with fadeIn',
 		'show character squilla Normal with fadeIn',
