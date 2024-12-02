@@ -199,7 +199,7 @@ monogatari.script ({
 		"legion Loud and clear, Nemzy Wemzy.",
 		"y I managed to slip past the chavs outside the Subway.",
 		"legion Good work. We can't risk another incident.",
-		"legion Last time, those kids spotted you and nearly blew the whole mission.",
+		"legion Last time those kids spotted you, it nearly blew the whole mission.",
 		"legion They wouldn’t stop shouting about how 'your tunes were banging.'",
 		"legion Remember, Nemz, this is a sneaking mission.",
 		"legion If you fail, someone might think you are a loser.",

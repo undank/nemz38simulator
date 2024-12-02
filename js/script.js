@@ -164,7 +164,7 @@ monogatari.assets ('scenes', {
 	"Park": "park.jpg",
 	"FIFA": "fifa.png",
 	"house": "house.jpg",
-	"subwayeater": "subwayeater.png",
+	"subwayeater": "subwayeater2.png",
 	"lothric": "lothric.jpg",
 	"dist2twitch": "dist2twitch.png",
 	"ERZip1": "ERzip1.png",
