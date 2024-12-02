@@ -118,6 +118,8 @@ monogatari.assets ('voices', { // Define the voice files used in the game.
 
 // Define the sounds used in the game.
 monogatari.assets ('sounds', {
+	"codecopen": "codecopen.wav",
+	"codecover": "codecover.wav",
 	"dogbark1": "dogbark1.mp3",
 	"dogbark2": "dogbark2.mp3",
 	"dogbark3": "smalldogbark.mp3",
@@ -161,6 +163,7 @@ monogatari.assets ('scenes', {
 	"Park": "park.jpg",
 	"FIFA": "fifa.png",
 	"house": "house.jpg",
+	"subwayeater": "subwayeater.png",
 	"lothric": "lothric.jpg",
 	"dist2twitch": "dist2twitch.png",
 	"ERZip1": "ERzip1.png",
@@ -280,6 +283,10 @@ monogatari.characters({
 			Mad: 'dist2mad.png',
 			BF: 'distbf.png'
 		}
+	},
+	'legion': {
+		name: 'Legion',
+		color: '#6A9771',
 	},
 	'bing': {
 		name: 'bing',

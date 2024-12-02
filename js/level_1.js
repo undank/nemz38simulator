@@ -190,6 +190,12 @@ monogatari.script ({
 		        playedSubway: false
 		    });
 		},
+		'show scene subwayeater with fadeIn',
+		"play sound codecopen",
+		'y This is Nemz38, do you read me, Legion?',
+		"legion Loud and clear, Nemz. Poggy woggy.",
+		"y Commencing operation Subway Eater.",
+		"play sound codecover",
 		'show scene #000000 with fadeIn',
 		'Heading to Subway...',
 		'play music subway loop',
