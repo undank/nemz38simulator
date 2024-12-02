@@ -95,6 +95,7 @@ monogatari.assets ('gallery', { // Define the images that will be available on y
 });
 
 monogatari.assets ('music', { // Define the music used in the game.
+	"mgs": "mgs.ogg",
 	"birds": "birds.ogg",
 	"subway": "subway.ogg",
 	"date1": "date1.ogg",
