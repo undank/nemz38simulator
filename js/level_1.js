@@ -197,7 +197,7 @@ monogatari.script ({
 		"play music mgs loop",
 		'y This is Nemz. Do you read me, Legion?',
 		"legion Loud and clear, Nemzy Wemzy.",
-		"y I managed to slip past the chavs hanging around, outside the Subway.",
+		"y I managed to slip past the chavs hanging around outside the Subway.",
 		"legion Excellent work. We can't risk another incident.",
 		"legion When those kids spotted you, it nearly compromised the whole mission.",
 		"legion They wouldn’t stop shouting about how 'your tunes are banging.'",
