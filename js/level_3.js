@@ -52,7 +52,7 @@ monogatari.script ({
 		'displate We will forget that you said a Displate killed your dog.',
 		'hide character displate',
 		'show character herowars Normal',
-		"herowars Thanks for clarifying we aren't a crypto miner scam Nemz. Clan up!",
+		"herowars We are not a crypto miner scam, Nemz. Clan up!",
 		'hide character herowars',
 		'y Ahh, everything is finally back to normal. I guess I should finally start my stream.',
 		'y Time to stick to a normal schedule! Three hour streams, twice a week, at least!',
