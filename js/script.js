@@ -287,7 +287,7 @@ monogatari.characters({
 	},
 	'legion': {
 		name: 'Legion',
-		color: '#6A9771',
+		color: '#5dba87',
 	},
 	'bing': {
 		name: 'bing',
