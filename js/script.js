@@ -119,6 +119,7 @@ monogatari.assets ('voices', { // Define the voice files used in the game.
 
 // Define the sounds used in the game.
 monogatari.assets ('sounds', {
+	"codeccall": "codeccall.wav",
 	"codecopen": "codecopen.wav",
 	"codecover": "codecover.wav",
 	"dogbark1": "dogbark1.mp3",
