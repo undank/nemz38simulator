@@ -217,7 +217,7 @@ monogatari.characters({
 	},
 	'foosballchan': {
 		name: 'Foosball-Chan',
-		color: '#00ff00',
+		color: '#5dba87',
 		Images: {
 			Normal: 'foosballchan_happy.png',
 			Mad: 'foosballchan_shock.png'

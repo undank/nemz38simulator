@@ -202,7 +202,7 @@ monogatari.script ({
 		"y I managed to slip past the chavs standing outside the Subway.",
 		"legion Good work. We can't risk another incident.",
 		"legion Last time those kids spotted you, it nearly blew the whole mission.",
-		"legion They wouldn’t stop shouting about how 'your tunes were banging.'",
+		"legion They wouldn’t stop shouting about how 'your tunes were banging'.",
 		"legion Remember Nemz, this is a stealth mission.",
 		"legion If you fail, someone might think you are a loser.",
 		"y Understood. Commencing Operation Subway Eater.",
