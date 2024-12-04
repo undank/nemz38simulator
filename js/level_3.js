@@ -28,7 +28,7 @@ monogatari.script ({
 		"y Okay.",
 		'hide character squilla',
 		'stop music',
-		'play music victory loop',
+		'play music victory',
 		'show character hob Normal at right',
 		'show character dist Normal at left',
 		'show character ela Normal',
