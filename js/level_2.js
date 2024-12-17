@@ -133,7 +133,7 @@ monogatari.script ({
 		'play sound windows10error',
 		'show character bing Normal with shake',
 		'dist My version of Bing search is out of date?!',
-		"dist What the fuck is this?! I can't control my character!",
+		"dist What the fuck is this?! I can't control my character dude!",
 		'stop sound windows10error',
 		'jump DistEnd',
 	],

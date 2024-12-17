@@ -1,8 +1,8 @@
 monogatari.script ({
 	'LevelThree': [
 		'stop music',
-		'y It was you all along?!',
 		'play sound vineboom',
+		'y It was you all along?!',
 		'play music gael8bit with loop',
 		'show scene lothric with fadeIn',
 		'show character squilla Normal with fadeIn',
@@ -55,7 +55,7 @@ monogatari.script ({
 		"herowars Thanks for saying we aren't a crypto miner scam, Nemz. Clan up!",
 		'hide character herowars',
 		'y Ahh, everything is finally back to normal. I guess I should finally start my stream.',
-		'y Time to stick to a normal schedule! Three hour streams, twice a week, at least!',
+		'y Time to stick to a normal schedule! Two hour streams, three times a week, at least!',
 		'y I will finally do the All Achievements run!',
 		'y Unless....?',
 		'stop music',
