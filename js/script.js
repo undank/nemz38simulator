@@ -326,6 +326,13 @@ monogatari.characters({
 			Normal: 'nordvpn.png'
 		}
 	},
+	'timberborn': {
+		name: 'Timberborn',
+		color: '#b58b1d',
+		Images: {
+			Normal: 'timberborn.png'
+		}
+	},
 	'displate': {
 		name: 'Displate',
 		color: '#5bcaff',
