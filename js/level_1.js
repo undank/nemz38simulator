@@ -85,7 +85,6 @@ monogatari.script ({
 		'show character gravychan Normal center with fadeIn',
 		'gravychan Nemz-senpai, who is this?!',
 		'gravychan You said you had your dog walking job today...',
-		"gravychan Don't you remember our special night?",
 		'hide character gravychan with fadeOut',
 		'show character skittleschan Normal with fadeIn',
 		'skittleschan Nemz-kun, y-you baka! How could you?',
