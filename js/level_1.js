@@ -123,7 +123,7 @@ monogatari.script ({
 		"bluey Woof!",
 		'hide character bluey with fadeOut',
 		'show character walker Normal with fadeIn at center',
-		"Down the path, a woman walking a dog is heading towards you...",
+		"Down the path, a woman is walking a dog, and heading towards you...",
 		"y (Oh my god, she's beautiful... what should I do?)",
 		'show character walker Normal move character-centerright duration 1s',
 		{'Choice': {
